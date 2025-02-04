@@ -1,3 +1,1 @@
-./mnist
-/mnist
-mnist/
+*.gz
